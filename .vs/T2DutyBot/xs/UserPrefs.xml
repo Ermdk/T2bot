@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{87FB6EC2-84E5-490E-8272-AA0DCCC1B1D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="T2DutyBot/Program.cs">
+    <Files>
+      <File FileName="T2DutyBot/Program.cs" Line="108" Column="1" />
+      <File FileName="../sooooook/sooooook/Program.cs" Line="108" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.T2DutyBot PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>
